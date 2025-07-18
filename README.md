@@ -1,5 +1,5 @@
-﻿# Hack-the-Web-24-Hour-Challenge
- Screenshots of website
+﻿# Hack-the-Web-24-Hour-Challenge<br>
+<h2> Screenshots of website</h2><br>
 <img width="1918" height="972" alt="Screenshot 2025-07-18 095705" src="https://github.com/user-attachments/assets/0a677f8f-b70f-46ab-9692-c67168b442e3" />
 <img width="1918" height="917" alt="Screenshot 2025-07-18 095717" src="https://github.com/user-attachments/assets/87ae64f7-914a-4ae8-9414-ac16d242e13a" />
 <img width="1919" height="907" alt="Screenshot 2025-07-18 095730" src="https://github.com/user-attachments/assets/e7ab2291-09b8-42e8-a874-5274fa258df8" />
